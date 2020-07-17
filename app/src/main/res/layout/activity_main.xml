@@ -7,6 +7,7 @@
     android:padding="50dp">
     
     <Button
+        android:id="@+id/button_1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/button_text_1"
@@ -15,6 +16,7 @@
         android:layout_marginBottom="40dp"/>
 
     <Button
+        android:id="@+id/button_2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/button_text_2"
@@ -23,6 +25,7 @@
         android:layout_marginBottom="40dp"/>
 
     <Button
+        android:id="@+id/button_3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/button_text_3"
