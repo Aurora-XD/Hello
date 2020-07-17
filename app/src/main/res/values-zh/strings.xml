@@ -4,4 +4,12 @@
     <string name="button_text_1">按钮 1</string>
     <string name="button_text_2">按钮 2</string>
     <string name="button_text_3">按钮 3</string>
+    <string name="button_text_4">按钮 4</string>
+    <string name="button_text_5">按钮 5</string>
+    <string name="button_text_6">按钮 6</string>
+    <string name="button_text_7">按钮 7</string>
+    <string name="button_text_8">按钮 8</string>
+    <string name="button_text_9">按钮 9</string>
+    <string name="button_text_10">按钮 10</string>
+
 </resources>
