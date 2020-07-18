@@ -12,4 +12,7 @@
     <string name="button_text_9">button 9</string>
     <string name="button_text_10">button 10</string>
 
+    <string name="button_login">Login</string>
+    <string name="button_signup">Signup</string>
+
 </resources>
