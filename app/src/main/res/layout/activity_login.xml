@@ -119,5 +119,18 @@
         android:src="@drawable/tw"
         android:scaleType="centerCrop"/>
 
+    <Button
+        android:id="@+id/signup"
+        android:layout_width="250dp"
+        android:layout_height="40dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/iamge_fb"
+        android:layout_marginTop="85.5dp"
+        android:text="Signup with email"
+        android:textAllCaps="false"
+        android:textSize="12sp"
+        android:textColor="#1f4ba5"
+        android:background="@drawable/signup"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
