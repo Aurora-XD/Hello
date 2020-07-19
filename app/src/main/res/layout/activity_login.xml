@@ -41,7 +41,8 @@
         android:background="@drawable/edittext_background"
         android:textSize="12sp"
         android:textColor="#e4e4e4"
-        android:hint="Password"/>
+        android:hint="Password"
+        android:inputType="textPassword"/>
     
     <TextView
         android:id="@+id/remember_me"
@@ -131,6 +132,6 @@
         android:textAllCaps="false"
         android:textSize="12sp"
         android:textColor="#1f4ba5"
-        android:background="@drawable/signup"/>
+        android:background="@drawable/signup_background"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
