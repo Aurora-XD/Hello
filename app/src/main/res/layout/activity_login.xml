@@ -27,7 +27,7 @@
         android:layout_marginTop="77.7dp"
         android:background="@drawable/edittext_background"
         android:textSize="12sp"
-        android:textColor="#e4e4e4"
+        android:textColor="@color/colorEditText"
         android:hint="Username"/>
 
     <EditText
@@ -40,7 +40,7 @@
         android:layout_marginTop="10dp"
         android:background="@drawable/edittext_background"
         android:textSize="12sp"
-        android:textColor="#e4e4e4"
+        android:textColor="@color/colorEditText"
         android:hint="Password"
         android:inputType="textPassword"/>
     
@@ -53,7 +53,7 @@
         app:layout_constraintTop_toBottomOf="@id/password"
         android:layout_marginTop="22.5dp"
         android:text="Remember me"
-        android:textColor="#222222"
+        android:textColor="@color/colorPromptText"
         android:textSize="12sp"/>
 
     <TextView
@@ -64,7 +64,7 @@
         app:layout_constraintTop_toBottomOf="@id/password"
         android:layout_marginTop="22.5dp"
         android:text="Forgot password?"
-        android:textColor="#222222"
+        android:textColor="@color/colorPromptText"
         android:textSize="12sp"/>
 
     <CheckBox
@@ -83,7 +83,7 @@
         app:layout_constraintTop_toBottomOf="@id/remember_me"
         android:layout_marginTop="22.5dp"
         android:text="Login"
-        android:textColor="#FFFFFF"
+        android:textColor="@color/colorWhite"
         android:textSize="12sp"
         android:textAllCaps="false"
         android:background="@drawable/login_background"/>
@@ -93,7 +93,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="or connect with"
-        android:textColor="#b2b2b2"
+        android:textColor="@color/colorConnect"
         android:textSize="12sp"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
@@ -131,7 +131,7 @@
         android:text="Signup with email"
         android:textAllCaps="false"
         android:textSize="12sp"
-        android:textColor="#1f4ba5"
+        android:textColor="@color/colorBlueBackground"
         android:background="@drawable/signup_background"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
