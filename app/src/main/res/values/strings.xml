@@ -15,4 +15,11 @@
     <string name="button_login">Login</string>
     <string name="button_signup">Signup</string>
 
+    <string name="button_username">Username</string>
+    <string name="button_password">Password</string>
+    <string name="button_remember_me">Remember me</string>
+    <string name="button_forgot_password">Forgot Password</string>
+    <string name="button_connect">or connect with</string>
+    <string name="button_email_signup">Signup with email</string>
+
 </resources>
